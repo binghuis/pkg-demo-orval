@@ -1,3 +1,2 @@
-- 目前版本 6.11.1 openapi 3.0.3 支持良好
 - response data 实现类型封装
-- 包支持自定义 mock
+
